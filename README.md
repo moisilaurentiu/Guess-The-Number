@@ -6,3 +6,5 @@ Guess my number is a simple game in which the user:
     Change guess based on programm instructions (if guess to low choose a number greater than current and vice versa)
     Check number of guesses
     Check highest guess score
+
+The Complete JavaScript Course 2021: From Zero to Expert! by Jonas Schmedtmann
